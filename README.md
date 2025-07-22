@@ -11,12 +11,13 @@ This project was developed as part of my graduation project and aims to solve a 
 With **SyananHome**, users can:
 
 - Discover different product categories such as furniture, lighting, and decoration.
-- View detailed product information with images and prices.
+- Sign up and log in securely using **OTP-based authentication**.
 - Search for items using a smart search feature.
-- Sign up and log in securely.
+- View detailed product information with images and prices.
 - Add products to their cart.
 - Place orders with delivery and payment options.
 - Save time, effort, and money by finding everything they need in one app.
+
 
 The project is built with a clean architecture and modular structure, making it scalable and easy to maintain.
 
@@ -32,7 +33,7 @@ The project is built with a clean architecture and modular structure, making it 
 - **SharedPreferences** – for local storage
 - **REST API Integration**
 - **Clean Architecture**
-- **GetIt** – for dependency injection
+
 
 ### Backend
 - **Laravel (PHP)** – for API & admin panel
