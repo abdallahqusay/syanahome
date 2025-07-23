@@ -1,4 +1,4 @@
-# 🛋️ SyananHome – E-commerce Furniture App
+# 🛋️ SyananHome – E-commerce Furniture App(My Graduation Project)
 
 **SyananHome** is a full-stack e-commerce mobile application focused on providing a seamless shopping experience for users looking to furnish and decorate their homes. The app showcases a wide variety of products including furniture, lighting, and home accessories from multiple stores — all in one convenient platform.
 
